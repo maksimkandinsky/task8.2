@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606205512 source:c:\users\Максим\desktop\task\task8\task8.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
